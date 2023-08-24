@@ -2,7 +2,7 @@
 
 ## Goal
 
-To create open-source software and an accessible platform that allows people to teach the art of software.
+To create open-source software and an accessible platform that allows people to teach the art of programming.
 
 ## Current Initiatives
 
